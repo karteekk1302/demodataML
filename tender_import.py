@@ -3,6 +3,9 @@ import base64
 import xlrd
 from datetime import datetime, timedelta
 from odoo.exceptions import AccessError
+from odoo.exceptions import AccessError
+from odoo.exceptions import AccessError
+from odoo.exceptions import AccessError
 
 
 class ticl_shipment_log(models.Model):
